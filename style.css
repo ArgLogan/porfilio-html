@@ -57,12 +57,36 @@ h1{
     width: 100vw;
     height:20vh;
     background-color: rgb(182, 240, 182);
+    border-bottom-color: white ;
+    border-bottom-style:solid ;
+    border-bottom-width:15px ;
 }
 #foto-banner{
     width: 100%;
     height: 100%;
 }
 #fperfil{
-    width: 50px;
+    width: 95%;
+    height: 95%;
     border-radius: 50%;
+}
+#foto-perfil{
+    margin-top: -85px;
+    margin-left: 25px;
+    display: flex;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-color: white;
+}
+.separador{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-top-color: gray;
+    border-top-style:groove ;
+    border-top-width:3px ;
 }
