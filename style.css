@@ -51,7 +51,7 @@ h2{
     height:89vh;
     width: 100vw;
     background-color:rgb(229, 153, 219);
-    background-image: linear-gradient(45deg, #3f946a, #032546);
+    background-image: linear-gradient(66deg, #3f946a, #032546);
 }
 #pie{
     background-color:rgb(248, 205, 205);
@@ -62,7 +62,7 @@ h2{
     width: 100vw;
     height:25vh;
     background-color: rgb(26, 156, 26);
-    border-bottom-color: rgb(135, 135, 167) ;
+    border-bottom-color: #032546;
     border-bottom-style:solid ;
     border-bottom-width:15px ;
 }
@@ -86,7 +86,7 @@ h2{
     align-items: center;
     justify-content: center;
     background-color: white;
-    border-color: rgb(135, 135, 167) ;
+    border-color: #032546 ;
 }
 .separador{
     margin-top: 5px;
