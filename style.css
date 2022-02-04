@@ -48,20 +48,21 @@ h2{
 #principal{
     display: flex;
     flex-direction: column;
-    height:84vh;
+    height:89vh;
     width: 100vw;
-    background-color:rgb(219, 245, 219);
+    background-color:rgb(229, 153, 219);
+    background-image: linear-gradient(45deg, #3f946a, #032546);
 }
 #pie{
     background-color:rgb(248, 205, 205);
     width: 100vw;
-    height: 10vh;
+    height: 5vh;
 }
 #banner{
     width: 100vw;
-    height:20vh;
-    background-color: rgb(182, 240, 182);
-    border-bottom-color: white ;
+    height:25vh;
+    background-color: rgb(26, 156, 26);
+    border-bottom-color: rgb(135, 135, 167) ;
     border-bottom-style:solid ;
     border-bottom-width:15px ;
 }
@@ -75,17 +76,17 @@ h2{
     border-radius: 50%;
 }
 #foto-perfil{
-    margin-top: -85px;
+    margin-top: -75px;
     margin-left: 25px;
     display: flex;
     border-style: solid;
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     align-items: center;
     justify-content: center;
     background-color: white;
-    border-color: white;
+    border-color: rgb(135, 135, 167) ;
 }
 .separador{
     margin-top: 5px;
@@ -100,7 +101,7 @@ h2{
     justify-content: center;
     height: 2rem;
     width: 2rem;
-    background-color: #495057;
+    background-color: #032546;
     color: #fff;
     border-radius: 100%;
     font-size: 1rem;
@@ -110,7 +111,7 @@ h2{
     margin-right: 0;
   }
   .social-icons .social-icon:hover {
-    background-color: #275fa0;
+    background-color: #0475f7;
   }
   #experiencia{
       margin-left: 5px;
