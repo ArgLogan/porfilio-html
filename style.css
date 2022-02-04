@@ -31,7 +31,7 @@ nav{
     color:honeydew;
 }
 
-button{
+#button{
     padding: 5px;
     border-radius: 5px;
     background-color: bisque;
@@ -90,3 +90,29 @@ h1{
     border-top-style:groove ;
     border-top-width:3px ;
 }
+.social-icons .social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 2rem;
+    width: 2rem;
+    background-color: #495057;
+    color: #fff;
+    border-radius: 100%;
+    font-size: 1rem;
+    margin-right: 0.5rem;
+  }
+  .social-icons .social-icon:last-child {
+    margin-right: 0;
+  }
+  .social-icons .social-icon:hover {
+    background-color: #275fa0;
+  }
+  #experiencia{
+      margin-left: 5px;
+      margin-bottom: 5px;
+  }
+  #acerca-de{
+      margin-left: 5px;
+      margin-bottom: 5px;
+  }
