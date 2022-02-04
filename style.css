@@ -40,6 +40,10 @@ nav{
 h1{
     color:#8484ff5c;
     text-shadow: 1px 1px 1px black;
+    margin-left: 5px;
+}
+h2{
+    margin-left: 5px;
 }
 #principal{
     display: flex;
@@ -116,3 +120,4 @@ h1{
       margin-left: 5px;
       margin-bottom: 5px;
   }
+  
