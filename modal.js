@@ -1,12 +1,12 @@
-let cerrar = document.getElementById("#close");
-let abrir = document.querySelector(".cta")
+let cerrar = document.getElementById("close");
+const abrir = document.querySelector('.cta');
 let modal = document.querySelector(".modal");
 let modalC = document.querySelector(".modal-container");
 console.log(cerrar);
-console.log(abrir);
+console.log(document.querySelector(".cta"));
 console.log(modal);
 console.log(modalC);
-
+console.log("hola perro");
 
 /*abrir.addEventListener("click", function(e){
     e.preventDefault();
