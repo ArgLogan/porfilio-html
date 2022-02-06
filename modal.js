@@ -14,3 +14,5 @@ abrir.addEventListener("click", function(e){
 cerrar.addEventListener("click", function(){
     modal.classList.toggle("modal-close");
 });
+
+let colaboracion = "Un gusto colaborar con tu codigo";
