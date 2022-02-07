@@ -200,6 +200,7 @@ h2{
   }
 
   /*barras*/
+
 .contiene-progres{
     margin-top: 15px;
     display: flex;
@@ -307,8 +308,6 @@ h2{
 }
 .box .percent .number h2{
     font-size: 48px;
-    display: flex;
-    flex-direction: column;
 }
 .box .percent .number h2 span{
     font-size: 24px;
