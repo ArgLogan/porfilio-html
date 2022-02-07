@@ -121,6 +121,23 @@ h2{
       margin-left: 5px;
       margin-bottom: 5px;
   }
+
+  /* ESTILOS DEL MODAL  */
+  .formulario-login{
+      display: flex;
+      flex-direction:column;
+      align-items: center;
+  }
+  .formulario-login label{
+      margin-top: 5px;
+      margin-bottom: 1px;
+  }
+  .formulario-login input{
+      margin: 0 0;
+  }
+  .formulario-login button{
+      margin-top: 5px;
+  }
   .modal-container{
       opacity: 0;
       visibility: hidden;
